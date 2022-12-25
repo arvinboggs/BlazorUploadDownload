@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorUploadDownload.Server", "Server\BlazorUploadDownload.Server.csproj", "{89DC148A-C53A-43D9-A8F4-8151090235EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorUploadDownload.Client", "Client\BlazorUploadDownload.Client.csproj", "{AD408A01-16A8-4C0E-AAB2-8005F3E435A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89DC148A-C53A-43D9-A8F4-8151090235EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89DC148A-C53A-43D9-A8F4-8151090235EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89DC148A-C53A-43D9-A8F4-8151090235EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89DC148A-C53A-43D9-A8F4-8151090235EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD408A01-16A8-4C0E-AAB2-8005F3E435A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD408A01-16A8-4C0E-AAB2-8005F3E435A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD408A01-16A8-4C0E-AAB2-8005F3E435A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD408A01-16A8-4C0E-AAB2-8005F3E435A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {565A4E01-E55F-4B2F-8573-3759733D8600}
+	EndGlobalSection
+EndGlobal
